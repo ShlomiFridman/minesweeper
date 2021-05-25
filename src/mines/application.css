@@ -1,0 +1,48 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+Button.btn{
+    -fx-padding: 1;
+    -fx-border-insets: 1;
+    -fx-background-insets: 1;
+	-fx-background-radius:10;
+    -fx-border-radius: 10;
+    -fx-border-color:gray;
+    -fx-border-width: 1 1 1 1;
+}
+GridPane{
+	-fx-background-radius:5;
+    -fx-border-radius: 5;
+    -fx-border-color:gray;
+    -fx-border-width: 1 1 1 1;
+}
+.clicked1{
+	-fx-background-color:#f0ad4e;
+}
+.clicked2{
+	-fx-background-color:#b7fa91;
+}
+.clicked3{
+	-fx-background-color:#36eb81;
+}
+.clicked4{
+	-fx-background-color:#6efff8;
+}
+.clicked5{
+	-fx-background-color:#7798f2;
+}
+.clicked6{
+	-fx-background-color:#9d79f7;
+}
+.clicked7{
+	-fx-background-color:#d973f5;
+}
+.clicked8{
+	-fx-background-color:#f7728c;
+}
+.mine{
+	-fx-background-color:#d9534f;
+	-fx-text-fill:white;
+}
+.flag{
+	-fx-background-color:#5bc0de;
+	-fx-text-fill:white;
+}
