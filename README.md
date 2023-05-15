@@ -1,5 +1,5 @@
 # minesweeper
-minesweeper game that uses JavaFS GUI, need JDK11 to run.
+minesweeper game that uses JavaFS GUI, requires bellsoft jdk11.
 
 to play the game execute Minesweeper.jar file.
 
